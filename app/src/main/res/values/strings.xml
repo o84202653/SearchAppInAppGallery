@@ -3,4 +3,5 @@
     <string name="package_name">Package name</string>
     <string name="insert_valid_package">Insert a valid packagename</string>
     <string name="app_is_not_installed">App is not installed</string>
+    <string name="appgallery_not_installed">AppGallery is not installed</string>
 </resources>
